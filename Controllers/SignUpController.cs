@@ -32,9 +32,9 @@ namespace Backend.Controllers
 
                     return CreatedAtAction("SignUp", new { id = newUser.Id }, new
                     {
-                        userName = newUser.UserName,
-                        email = newUser.Email,
-                        name = newUser.Name
+                        Firstname = newUser.FirstName,
+                        LastName = newUser.LastName,
+                        email = newUser.Email
                     });
                 }
                 else

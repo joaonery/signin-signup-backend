@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/joaonery/www/signin-signup/signin-signup-backend/signin-signup-backend.csproj": {}
+    "/home/joaonery/www/signin-signup-backend/signin-signup-backend.csproj": {}
   },
   "projects": {
-    "/home/joaonery/www/signin-signup/signin-signup-backend/signin-signup-backend.csproj": {
+    "/home/joaonery/www/signin-signup-backend/signin-signup-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaonery/www/signin-signup/signin-signup-backend/signin-signup-backend.csproj",
+        "projectUniqueName": "/home/joaonery/www/signin-signup-backend/signin-signup-backend.csproj",
         "projectName": "signin-signup-backend",
-        "projectPath": "/home/joaonery/www/signin-signup/signin-signup-backend/signin-signup-backend.csproj",
+        "projectPath": "/home/joaonery/www/signin-signup-backend/signin-signup-backend.csproj",
         "packagesPath": "/home/joaonery/.nuget/packages/",
-        "outputPath": "/home/joaonery/www/signin-signup/signin-signup-backend/obj/",
+        "outputPath": "/home/joaonery/www/signin-signup-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joaonery/.nuget/NuGet/NuGet.Config"
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lSS7KzwTlwvLO7h/TdVVjAZXl+efhNgQKcsgYqIMm2hqWyvlreZ9N3bVahNKcM8lJgR0QSMhWmhDRabW4WcOA==",
+  "dgSpecHash": "2Xh9lmU7jqDvBDfyA+z+oyg/gTwOmaIO8CMagzzHV3+RFWEDUSSqkrfQoJ5yoJzBUfQ8UnBLC05Ol/FRI4H81g==",
   "success": true,
-  "projectFilePath": "/home/joaonery/www/signin-signup/signin-signup-backend/signin-signup-backend.csproj",
+  "projectFilePath": "/home/joaonery/www/signin-signup-backend/signin-signup-backend.csproj",
   "expectedPackageFiles": [
     "/home/joaonery/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/joaonery/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.1/microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

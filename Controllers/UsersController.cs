@@ -42,10 +42,10 @@ namespace Backend.Controllers
 
                     return CreatedAtAction("CreateUser", new { id = newUser.Id }, new
                     {
-                        userName = newUser.UserName,
-                        email = newUser.Email,
-                        name = newUser.Name,
-                        id = newUser.Id
+                        id = newUser.Id,
+                        firstName = newUser.FirstName,
+                        lastName = newUser.LastName,
+                        email = newUser.Email
                     });
                 }
                 else

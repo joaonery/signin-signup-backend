@@ -10,10 +10,10 @@ namespace Backend.Models
         [Required(ErrorMessage = "Campo obrigtório")]
         [MaxLength(100, ErrorMessage = "Tamanho máximo é 100 caracteres")]
         [MinLength(3, ErrorMessage = "Tamanho minimo necessário é 3 caracteres")]
-        public string Name { get; set; }
+        public string FirstName { get; set; }
 
         [MaxLength(80, ErrorMessage = "Tamanho máximo é 80 caracteres")]
-        public string UserName { get; set; }
+        public string LastName { get; set; }
 
         [EmailAddress]
         [Required(ErrorMessage = "Campo obrigtório")]
